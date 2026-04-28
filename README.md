@@ -47,3 +47,4 @@ I lead web engineering at Group Link One, where we build **B2B AIoT SaaS platfor
 ---
 
 > *Most of my work lives in private repos — building proprietary B2B platforms at Group Link One. The commits are there, the code just isn't public.*
+
