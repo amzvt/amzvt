@@ -9,11 +9,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amzvt&style=flat-square&color=4F8CFF&label=Profile+Views" alt="Profile views" />
   <img src="https://img.shields.io/badge/Location-S%C3%A3o%20Paulo%2C%20BR-1F2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <a href="https://grouplink.one"><img src="https://img.shields.io/badge/Company-Group%20Link%20One-0EA5E9?style=flat-square" alt="Company" /></a>
+  <a href="https://grouplinkone.com"><img src="https://img.shields.io/badge/Company-Group%20Link%20One-0EA5E9?style=flat-square" alt="Company" /></a>
 </p>
 
 <p align="center">
-  <b>Head of Web Development @ <a href="https://grouplink.one">Group Link One</a></b> · Engineering Manager · Tech Lead
+  <b>Head of Web Development @ <a href="https://grouplinkone.com">Group Link One</a></b> · Engineering Manager · Tech Lead
 </p>
 
 <p align="center">
